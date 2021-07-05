@@ -44,6 +44,7 @@ main{
 .monopattino{
   position: relative;
   top: 8px;
+  line-height: 15px;
 }
 .carica1, .carica2, .carica3{
   padding: 10px;
