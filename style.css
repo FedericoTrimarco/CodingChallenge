@@ -1,7 +1,8 @@
-    body {
+  body {
   background-image: url(background.jpg);
   color: white;
   background-size: cover;
+
 }
 .container{
   background-color: black;
@@ -43,6 +44,7 @@ main{
 }
 .monopattino{
   position: relative;
+  left: 10px;
   top: 8px;
   line-height: 15px;
 }
