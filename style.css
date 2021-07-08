@@ -1,67 +1,65 @@
-  body {
-  background-image: url(background.jpg);
-  color: white;
-  background-size: cover;
+  ody {
+ background-image: url(background.jpg);
+ color: white;
+ background-size: cover;
 
 }
 .container{
-  background-color: black;
-  background-color: rgba(0, 0, 0, 0.6);
-  border-radius: 20px 20px 20px 20px;
-  width: 1300px;
-  height: 900px;
-  margin: auto;
-  font-family: 'Ubuntu', sans-serif;
-  position: relative;
-  left: 10vh;
-  top: 10vh;
+ background-color: black;
+ background-color: rgba(0, 0, 0, 0.6);
+ border-radius: 20px 20px 20px 20px;
+ width: 1300px;
+ height: 900px;
+ margin: auto;
+ font-family: 'Ubuntu', sans-serif;
+ position: relative;
+ left: 150px;
+ top: 150px;
 }
 header, main{
-  position: relative;
-  top: 3vh;
+  position: absolute;
+  left: 150px;
 }
 header{
-  margin:auto;
   text-align: center;
+  top: 30px;
 }
 main{
-  left: 11vh;
+  top:290px;
 }
 .logo{
-  width: 250px;
-  top: 20px;
+ width: 250px;
+ top: 20px;
 }
 .logo-text{
-  font-size: 35px;
-  color: #00FF00
+ font-size: 35px;
+ color: #00FF00
 
 }
 .tasti{
-  background-color: #00FF00;
-  width: 1000px;
-  padding: 10px;
-  display: inline-block;
+ background-color: #00FF00;
+ width: 1000px;
+ padding: 10px;
+ display: inline-block;
 }
 .monopattino{
-  position: relative;
-  left: 10px;
-  top: 8px;
-  line-height: 15px;
+ line-height: 15px;
 }
 .carica1, .carica2, .carica3{
-  padding: 10px;
-  border-radius: 5px 5px 5px 5px;
-  height: 10px;
+ padding: 10px;
+ border-radius: 5px 5px 5px 5px;
+ height: 10px;
 }
 .carica1{
-  background-color: orange;
-  width: 300px;
+ background-color: orange;
+ width: 300px;
 }
 .carica2{
-  background-color: green;
-  width: 700px;
+ background-color: green;
+ width: 700px;
 }
 .carica3{
-  background-color: #CD2626;
-  width: 125px;
+ background-color: #CD2626;
+ width: 125px;
 }
+
